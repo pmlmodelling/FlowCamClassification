@@ -1,8 +1,10 @@
 # FlowCamClassification
 
-Code associated with the paper `Collaborative deep learning models to handle class imbalance in FlowCam plankton imagery`. Although the functionality could be imported into another project, this was designed to be a command line tool that includes all functionality from processing FlowCam images to data clean up, training of deep learning models all to reporting the performance of different types of models.
+Code associated with the paper `Collaborative deep learning models to handle class imbalance in FlowCam plankton imagery`. Although functionality could be imported into another project, this was designed to be a command line tool that includes all functionality from processing FlowCam images to data clean up, training of deep learning models all to reporting the performance of different types of models.
 
-  
+## How to cite
+T. Kerr, J. R. Clark, E. S. Fileman, C. E. Widdicombe and N. Pugeault, "Collaborative deep learning models to handle class imbalance in FlowCam plankton imagery," in IEEE Access, doi: 10.1109/ACCESS.2020.3022242.
+
 
 ## Prerequisites 
 

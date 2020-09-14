@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+/trained_models
+/processed_data
+
+*.csv
